@@ -185,18 +185,4 @@ These metrics measure prediction accuracy and model performance.
 - TensorFlow / Keras
 - Google Colab
 
----
 
-# Project Structure
-
-Delhi-Air-Quality-Prediction
-│
-├── delhi.ipynb
-├── delhi_air_quality_hourly.csv
-├── README.md
-│
-└── images
-├── pm25_trend.png
-├── distribution_plots.png
-├── correlation_heatmap.png
-└── model_predictions.png
